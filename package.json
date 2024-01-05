@@ -1,0 +1,11 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "This is a mern stack project focusing on implementing the JWT authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sresta Malla",
+  "license": "ISC"
+}
